@@ -1,44 +1,38 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
+# Exercícios Resolvidos
 
-# NomedoProjeto
 
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Conteúdo da Disciplina**: Dividir e Conquistar<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 15/0154348  | Matheus Phillipo Silverio Silva |
+| 19/0134810  |  Shaíne Aparecida Cardoso de Oliveira |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+O repositório contém soluções para algumas questões de juíz online do 
 
-## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+## Screenshots e Apresentações
+
+## Link das apresentações
+
+**Para maior conforto, as apresentações estão no youtube. Mas caso não consiga acessa-las, os vídeos se encontram na pasta
+
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: C++<br>
+
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+Para rodar os algoritmos deste repositório, siga as etapas abaixo:
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+- Certifique-se de ter um compilador para C++ instalado em sua máquina, recomendamos o g++.
+- Faça o clone do repositório Git para o seu ambiente local.
+- Compile o arquivo desejado com `g++ -o <nome-do_executavel> <nome-do-arquivo.cpp>`
+- Execute o arquivo com `./<nome-do-executavel>`. Certifique-se de que esteja no diretório correto em seu terminal para executar os comandos acima.
+- Opcional: Deixamos os arquivos de entrada dos casos de testes de exemplo dos problemas em cada problema, afim de reduzir o tempo de digitação. Ao executar o programa, execute `./<nome-do-executavel> < <nome-do-arquivo-de-input>.txt` 
+
 
 
 
