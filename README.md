@@ -15,7 +15,7 @@ O repositório contém soluções para algumas questões de juíz online do LetC
 - [Submatriz Máxima](https://leetcode.com/problems/maximum-subarray/description/)
 
 ## Screenshots e Apresentações
-- Submatriz Máxima
+- Submatriz Máxima<br>
 ![Submatriz Máxima](./submatriz_maxima/maxima.png)
 
 ## Link das apresentações
