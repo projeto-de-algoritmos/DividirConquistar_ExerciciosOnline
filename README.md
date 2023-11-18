@@ -14,9 +14,14 @@
 O repositório contém soluções para algumas questões de juíz online do LetCode...
 - [Submatriz Máxima](https://leetcode.com/problems/maximum-subarray/description/)
 
+- [Maximum Crossings (Hard Version)](https://codeforces.com/problemset/problem/1676/H2)
+
 ## Screenshots e Apresentações
 - Submatriz Máxima<br>
-![Submatriz Máxima](./submatriz_maxima/maxima.png)
+![Submatriz Máxima](./imgs/maxima.png)
+
+- Maximun Crossings (Hard Version)<br>
+![Maximun Crossings](./imgs/maximun_crossings.png)
 
 ## Link das apresentações
 
