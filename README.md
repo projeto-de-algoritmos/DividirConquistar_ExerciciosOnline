@@ -11,10 +11,13 @@
 | 19/0134810  |  Shaíne Aparecida Cardoso de Oliveira |
 
 ## Sobre 
-O repositório contém soluções para algumas questões de juíz online do LetCode...
+O repositório contém soluções para algumas questões de juíz online do LeetCode e CodeForces:
+
 - [Submatriz Máxima](https://leetcode.com/problems/maximum-subarray/description/)
 
 - [Maximum Crossings (Hard Version)](https://codeforces.com/problemset/problem/1676/H2)
+
+- [Equivalent Strings](https://codeforces.com/problemset/problem/559/B)
 
 ## Screenshots e Apresentações
 - Submatriz Máxima<br>
