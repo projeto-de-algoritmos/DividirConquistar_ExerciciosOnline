@@ -23,6 +23,9 @@ O repositório contém soluções para algumas questões de juíz online do LetC
 - Maximun Crossings (Hard Version)<br>
 ![Maximun Crossings](./imgs/maximun_crossings.png)
 
+- Equivalent Strings<br>
+![Equivalent Strings](./imgs/equivalent_strings.png)
+
 ## Link das apresentações
 
 **Para maior conforto, as apresentações estão no youtube. Mas caso não consiga acessa-las, os vídeos se encontram na pasta**
