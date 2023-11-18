@@ -33,6 +33,13 @@ O repositório contém soluções para algumas questões de juíz online do Leet
 
 **Para maior conforto, as apresentações estão no youtube. Mas caso não consiga acessa-las, os vídeos se encontram na pasta**
 
+## Saiba Mais
+- Árvore de Fenwick
+
+https://www.youtube.com/watch?v=d5PBN2hf2Xo
+
+https://dev.to/wengao/fenwick-tree-vs-segment-tree-1edk
+
 
 ## Instalação 
 **Linguagem**: C++<br>
