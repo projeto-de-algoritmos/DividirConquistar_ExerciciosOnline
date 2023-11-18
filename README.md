@@ -31,7 +31,9 @@ O repositório contém soluções para algumas questões de juíz online do Leet
 
 ## Link das apresentações
 
-**Para maior conforto, as apresentações estão no youtube. Mas caso não consiga acessa-las, os vídeos se encontram na pasta**
+Para maior conforto, as apresentações estão no youtube. Mas caso não consiga acessa-las, os vídeos se encontram na pasta [apresentacoes](https://github.com/projeto-de-algoritmos/DividirConquistar_ExerciciosOnline/tree/master/apresentacoes)
+
+- [Apresentação Maximun Crossings e Equivalent Strings](https://www.youtube.com/watch?v=x5gOMcZs21I)
 
 ## Saiba Mais
 - Árvore de Fenwick
