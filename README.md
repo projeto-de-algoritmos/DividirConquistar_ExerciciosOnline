@@ -13,6 +13,8 @@
 ## Sobre 
 O repositório contém soluções para algumas questões de juíz online do LeetCode e CodeForces:
 
+- [O Problema do Horizonte](https://leetcode.com/problems/the-skyline-problem/description/)
+
 - [Submatriz Máxima](https://leetcode.com/problems/maximum-subarray/description/)
 
 - [Maximum Crossings (Hard Version)](https://codeforces.com/problemset/problem/1676/H2)
@@ -20,6 +22,10 @@ O repositório contém soluções para algumas questões de juíz online do Leet
 - [Equivalent Strings](https://codeforces.com/problemset/problem/559/B)
 
 ## Screenshots e Apresentações
+
+- O Problema do Horizonte<br>
+![O Problema do Horizonte](./imgs/horizonte.png)
+
 - Submatriz Máxima<br>
 ![Submatriz Máxima](./imgs/maxima.png)
 
