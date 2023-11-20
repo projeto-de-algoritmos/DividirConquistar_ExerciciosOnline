@@ -40,6 +40,7 @@ O repositório contém soluções para algumas questões de juíz online do Leet
 Para maior conforto, as apresentações estão no youtube. Mas caso não consiga acessa-las, os vídeos se encontram na pasta [apresentacoes](https://github.com/projeto-de-algoritmos/DividirConquistar_ExerciciosOnline/tree/master/apresentacoes)
 
 - [Apresentação Maximun Crossings e Equivalent Strings](https://www.youtube.com/watch?v=x5gOMcZs21I)
+- [Apresentação O Problema do Horizonte e Submatriz Máxima](https://youtu.be/SKPVRrbimwE)
 
 ## Saiba Mais
 - Árvore de Fenwick
